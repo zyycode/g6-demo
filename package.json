@@ -1,0 +1,24 @@
+{
+  "name": "g6-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@antv/g-plugin-3d": "^2.0.4",
+    "@antv/g-webgl": "^2.0.4",
+    "@antv/g6": "^4.8.24",
+    "highlight.js": "^11.9.0",
+    "marked": "^12.0.2",
+    "marked-highlight": "^2.1.1",
+    "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
